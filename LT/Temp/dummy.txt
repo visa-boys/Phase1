@@ -1,0 +1,14 @@
+Review 1 Deliverables:
+EDA in more detail
+Filtering out the invalid datasets
+Preprocessing Layout Transformer
+Sample Input Sample Output
+Stable Diffusion Trial and see if it works
+rplanpy self implementation
+skimage-dataset to numpy array-excel
+SAP inputs on how to proceed
+LayoutGAN 
+
+
+
+Area Calculation Excel Sheet
